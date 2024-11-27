@@ -21,7 +21,7 @@ address {
 
 .header__links-list {
   display: flex;
-  gap: 11px;
+  gap: 10px;
   margin-left: 26.52px;
   list-style-type: circle;
 }
