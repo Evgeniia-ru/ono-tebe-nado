@@ -326,7 +326,7 @@ address {
 }
 /*текст об аукционе*/
 
-.about__column.auction{
+.about__column.auction {
 margin-top: 137px;
 }
 
@@ -345,7 +345,7 @@ margin-top: 137px;
   gap: 24px;
   font-weight: 400;
   font-size: 18px;
-  word-break: normal; 
+  word-break: normal;
 }
 
 .about__text p {
