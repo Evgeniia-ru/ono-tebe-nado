@@ -24,7 +24,7 @@ address {
   gap: 10px;
   margin-left: 27px;
   list-style: circle;
-  text-transform: lowercase;  
+  text-transform: lowercase;
 }
 
 .header__links-list-item {
